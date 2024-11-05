@@ -4,3 +4,7 @@ This addon enhances Blender’s USD export by automatically adding collision met
 ## Install
 
 In Blender, go to Edit -> Preferences, in the Add-ons tab click on the dropdown menu in the top right corner and choose "Install from Disk...". Locate the downloaded addon and press install.
+
+## Disclaimer
+
+This will only work with Unreal Engine 5.4 or newer. Older UE versions don't seem to load this metadata to the UsdAssetCache.
